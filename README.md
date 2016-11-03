@@ -1,6 +1,6 @@
-[ALISON JavaScript kurs][l1]
------------------------
-[l1]: http://www.alison.com
+# [ALISON JavaScript kurs][l1] prateci materijal
+
+[l1]: https://alison.com/courses/JavaScript-and-jQuery
 
 Prateci fajlovi uz online kurs za JS i JQuery.
 
